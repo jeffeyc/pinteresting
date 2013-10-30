@@ -5,4 +5,3 @@ This is the pinteresting sample application for
 
 by [Mattan Griffel] (http://mattangriffel.com)
 
-Playing around with commit and push
